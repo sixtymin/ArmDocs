@@ -6,19 +6,19 @@
 
 每一本文档的翻译内容对应有一个目录，用Markdown文档记录，便于进行编辑与排版。PDF目录下为ARM官方文档，文档名称以及内容列举如下：
 
-** ARM文档库（infocenter） **
+**1. ARM文档库（infocenter）**
 
-几乎ARM的所有文档都可以在这个网站上找到，权威数据；同时对于每一份文档都会提供相应的PDF版本下载。
+几乎ARM的所有文档都可以在这个网站上找到，权威数据；同时对于每一份文档都会提供相应的PDF版本下载（备着以后下载文档时容易找连接）。
 
 官方网址：[http://infocenter.arm.com/](http://infocenter.arm.com/)
 
-**Cortex-A Series Programmer's Guide for ARMv7-A.pdf**
+**2. Cortex-A Series Programmer's Guide for ARMv7-A.pdf**
 
 Cortex-A系列处理器的编程指南，针对ARMv7-A架构体系。
 
 官方网址: [http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.den0013d/index.html](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.den0013d/index.html)
 
-**Cortex-A Series Programmer's Guide for ARMv8-A.pdf**
+**3. Cortex-A Series Programmer's Guide for ARMv8-A.pdf**
 
 Cortex-A系列处理器编程指南，针对ARMv8-A架构体系，相比于`for ARMv7-A`的文档，这本文档只介绍了增量内容。它只包含了AArch64的内容，而对于之前的内容还需要参考老版本文档。
 
