@@ -24,12 +24,12 @@ Cortex-A系列处理器编程指南，针对ARMv8-A架构体系，相比于`for 
 
 官方网址: [http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.den0024a/index.html](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.den0024a/index.html)
 
-**4. Procedure Call Standard for the ARM® Architecture**
+**4. Procedure Call Standard for the ARM Architecture**
 
 **5. ARM C Language Extensions**
 
-**6. ARM® NEON Programmer’s Guide.pdf**
+**6. ARM NEON Programmer’s Guide.pdf**
 
-
+**7. ARM Compiler Toolchain Assembler Reference**
 
 By Andy @2018-05-10
